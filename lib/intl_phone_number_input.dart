@@ -6,3 +6,4 @@ export 'src/utils/selector_config.dart';
 export 'src/providers/country_provider.dart';
 export 'src/utils/formatter/as_you_type_formatter.dart';
 export 'src/utils/util.dart';
+export 'src/models/country_model.dart';
