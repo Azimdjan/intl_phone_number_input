@@ -7,4 +7,4 @@ export 'src/providers/country_provider.dart';
 export 'src/utils/formatter/as_you_type_formatter.dart';
 export 'src/utils/util.dart';
 export 'src/models/country_model.dart';
-export 'src/utils/phone_number/phone_number_util.dart';
+export 'src/utils/phone_number/phone_number_util.dart' show PhoneNumberUtil;
